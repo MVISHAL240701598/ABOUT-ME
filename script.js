@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Always-on-display",
       language: "JavaScript",
-      description: "Interactive always-on display implementation"
+      description: "Interactive always-on display implementation "
     }
   ];
 
