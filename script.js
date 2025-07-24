@@ -80,21 +80,6 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "Always-on-display",
       language: "JavaScript",
       description: "Interactive always-on display implementation"
-    },
-    {
-      name: "Y-Y-Multiplier",
-      language: "Python",
-      description: "Mathematical computation tool for Y-Y multiplication"
-    },
-    {
-      name: "240701598_python_programming",
-      language: "Python",
-      description: "Python programming exercises and implementations"
-    },
-    {
-      name: "PUC",
-      language: "General",
-      description: "Academic project for PUC coursework"
     }
   ];
 
